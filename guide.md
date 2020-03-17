@@ -679,6 +679,7 @@ If you like Cocktail bars next to the sea with loud music till dawn then Naxos i
 Top 3:
 * [520 Bar](https://www.tripadvisor.com.gr/Attraction_Review-g580192-d6720618-Reviews-520_Bar-Naxos_Town_Naxos_Cyclades_South_Aegean.html)
 * [The Ocean Club](https://www.tripadvisor.com.gr/Attraction_Review-g580192-d8332563-Reviews-The_Ocean_Club-Naxos_Town_Naxos_Cyclades_South_Aegean.html)
+  The most popular club in Naxos island.
 * [The Rum Bar Cocktail & Spirits](https://www.tripadvisor.com.gr/Attraction_Review-g580192-d12146313-Reviews-The_Rum_Bar_Cocktail_Spirits-Naxos_Town_Naxos_Cyclades_South_Aegean.html)
 
 ### <a name="syros"></a>Syros
